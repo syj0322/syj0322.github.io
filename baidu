@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>百度搜索</title>
+<style>
+p {
+	margin:0px;
+	font-family:Arial;
+	}
+p.tile {
+	padding-bottom:0px;
+	font-size:16px;
+}
+p.concent {
+	padding-top:3px;
+	font-size:13px;
+	line-height:18px;
+}
+p.link{
+	font-size:13px;
+	padding-bottom:25px;
+}
+p.link{
+	font-size:13px;
+	color:#008000;
+	padding-bottom:25px;
+}
+span.search{
+	color:#c60a00;
+}
+span.quick{
+	color:#666666;
+	text-decoration:underline;
+}
+p.title span.search {
+	text-decoration:underline;
+}
+</style>
+
+</head>
+
+<body>
+<p class="title">
+  <a href="#">中国<span class="search">春节</span>网</a>
+</p>
+<p class="concent">
+春节的另一名称叫过年。<span class="search">在过去的传说中，</span>年<span class="search">是一种为人们带来坏运气的想象中的</span>动物。年一来。树木凋蔽，百草不生;年一过，万物生长，鲜花遍地。<span class="search">年如何才能过去呢?</span>需用鞭炮轰 ，于是有了燃鞭炮的习俗，这其实也是烘托热闹场面的又一种方式......</p>
+<p class="link">
+   www.chunjie.net.cn/ 46k 2016-12-18 - <span class="quick">百度快照</span></p>
+
+
+</body>
+</html>
